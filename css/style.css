@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap")
+
+@import url("components/fake.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+h1, h2, h3, p {
+	font-family: 'Roboto', sans-serif;
+}
+
+body {
+	font-family: 'Roboto' sans-serif;
+	margin: 0px;
+}
+
+
